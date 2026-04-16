@@ -38,8 +38,31 @@ p {
 
 /* Compleate challenge down here */
 
-h2 {
-  background-color: yellow;
+ .orange {
+  background-color: orange;
+  display: inline-block;
+  
 }
 
+ .purple{
+  background-color: purple;
+  display: inline-block;
+}
+
+.pink{
+  background-color: pink;
+  display: inline-block;
+}
+
+.black {
+  background-color: black;
+  display: inline-block;
+}
+
+
+.size {
+  display: inline-block;
+  width: 24vw;
+  height: 50vh;
+}
 
